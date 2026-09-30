@@ -4,5 +4,4 @@ Computer Science student at UC San Diego with interests in full-stack developmen
 
 - 🎓 **Education:** B.S. in Computer Science @ UC San Diego
 - 💼 **Experience:** SWE Intern @ California Conservatory of Music (Practice Space app)
--  🎸 **Beyond Code:** Classical & jazz guitar, speedcubing, custom keyboards, K-pop
-- 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/boonhchew/) | [Email](mailto:boonhchew@gmail.com)
+-  🎸 **Interests:** Classical & jazz guitar, speedcubing, custom keyboards, K-pop
