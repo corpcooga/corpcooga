@@ -1,7 +1,9 @@
 # Hi, I'm Boon 👋
 
-Computer Science student at UC San Diego with interests in full-stack development, backend automation, and interactive systems.
+Computer Science student at UC San Diego interested in full-stack development, backend automation, and interactive systems.
 
-- 🎓 **Education:** B.S. in Computer Science @ UC San Diego
-- 💼 **Experience:** SWE Intern @ California Conservatory of Music (Practice Space app)
--  🎸 **Interests:** Classical & jazz guitar, speedcubing, custom keyboards, K-pop
+- 💼 **Experience:** SWE Intern @ [Practice Space](https://www.practicespaceapp.com/) (California Conservatory of Music)
+- 🛠️ **Tech:** Python, Java, C++, C#, JavaScript, HTML5, CSS3, Unity, Git, GitHub, Firebase, Pandas
+- 🎸 **Beyond Code:** Classical & jazz guitar, speedcubing, custom keyboards, K-pop
+
+[LinkedIn](https://linkedin.com/in/boonhchew/) • [Email](mailto:boonhchew@gmail.com)
